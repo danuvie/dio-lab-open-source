@@ -1,0 +1,9 @@
+Sou Analista e Engenheiro de Dados em sua respeitável organização. Com formações na área financeira e em tecnologia assim como também uma vasta experiência profissional em engenharia e analise de dados, infraestrutura de TI e integração de sistemas, acredito que minhas habilidades e conhecimentos podem ser um valioso ativo para sua equipe.
+
+Durante os últimos anos, adquiri expertise em uma variedade de tecnologias e ferramentas, incluindo Power BI, Pentaho, Linux (Centos e Red Hat), SAP, BMC Remedy ITSM, SQL/PLSQL,Python,  Azure e AWS, entre outros. Minha experiência prática abrange desde o desenvolvimento de ETL e painéis de controle até a administração de sistemas de integração de dados e arquivos e o suporte a infraestruturas complexas.
+
+Destaco minha capacidade comprovada de liderar projetos de automação de dados, modelagem de tabelas, administração de servidores e resolução de incidentes de nível 3. Destaco a minha habilidadem em criar pipelines de dados em diversas ferramentas incluindo em Cloud AWS e Azure. Além disso, possuo certificação ITIL4, o que me permite fornecer suporte de alta qualidade e garantir a estabilidade dos sistemas sob minha responsabilidade.
+
+No meu papel mais recente na Capgemini, tive a oportunidade de liderar equipes, fornecer treinamento e mentoria, além de participar ativamente de rituais ágeis, como dailies, Kanban e Scrum. Meu histórico profissional também inclui experiências anteriores em empresas renomadas, como G&P Projetos Sistemas e Orange Telecom do Brasil, onde liderei projetos de migração, implantação e sustentação de sistemas críticos de BI e integração de dados.
+
+Além das habilidades técnicas, possuo um bom domínio de idiomas, com inglês intermediário e espanhol avançado, o que me permite colaborar efetivamente em ambientes multiculturais.
